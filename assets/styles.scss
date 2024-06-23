@@ -1,0 +1,41 @@
+---
+title: false
+styles: true
+---
+
+$linkColour: rgb(41, 164, 226) !default;
+$hoverColour: rgb(70, 58, 30) !default;
+
+@import "alembic";
+
+article p {
+    text-align: left;
+}
+
+article div {
+    text-align: left;
+}
+
+article h1 {
+    text-align: left;
+    padding-bottom: 1em;
+}
+
+.typeset h1 {
+    font-size: 42px;
+}
+
+.feature{
+    padding-bottom: 0.4rem;
+    margin-bottom: 1.6rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    height: 320px;
+    .container {
+        min-height: 35%;
+        max-width: 60%;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
