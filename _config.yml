@@ -32,10 +32,10 @@ navigation_header:
     url: /
   - title: Inscription
     url: /inscription.html
-  - title: Nous contacter
-    url: /contact.html
   - title: Les entraînements
     url: /entrainements.html
+  - title: Nous contacter
+    url: /contact.html
 
 fonts:
   preconnect_urls:
