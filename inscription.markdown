@@ -25,10 +25,10 @@ Cette année, l'inscription se fera de manière dématérialisée.
 
 ---
 
-| Frais administratif                      | Prix  |
-| :--------------------------------------- | :---: |
-| Licence FFJDA annuelle (obligatoire)     | 41€   |
-| Passeport sportif judo                   | 8€    |
+| Frais administratif                                  | Coût |
+| :--------------------------------------------------- | :---: |
+| Licence FFJDA annuelle obligatoire                   | 41€   |
+| Passeport sportif judo (si compétitions officielles) | 8€    |
 
 ---
 
