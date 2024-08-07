@@ -58,7 +58,7 @@ p.italic, li.italic {
 }
 
 /* Links */
-a {
+a[href]{
     color: $lightSecondaryColor;
     &:hover {
         color: $secondaryColor;
@@ -80,7 +80,7 @@ nav a:hover {
     color: $blackColor;
 }
 
-nav a.active, .item--current {
+nav a.active {
     color: $mainColor; /* Couleur pour l'élément courant */
     font-weight: 700;
 }
