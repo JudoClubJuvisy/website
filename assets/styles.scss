@@ -5,14 +5,13 @@ styles: true
 
 /* Couleurs */
 $whiteColor: #fbfbfb; /* blanc cassé pour le fond du site */
-$blackColor: #212121; /* noir moin dur pour la couleur de la font */
+$blackColor: #212121; /* noir moins dur pour la couleur de la font */
 $darkGrayColor: #757575; /* entrées du menu inactive */
 $lightGrayColor: #f2f2f2; /* gris clair pour les en-têtes de tableau */
 
 /* Couleurs du club */
 $mainColor: #b40000; /* Rouge */
 $darkMainColor: #780000; /* Rouge foncé */
-
 $secondaryColor: #002654; /* Bleu */
 $lightSecondaryColor: #02479c; /* Bleu plus clair */
 
@@ -75,21 +74,21 @@ body a {
 /* Navigation Menu Links */
 nav a {
     color: $darkGrayColor;
-	text-decoration: none;
+    text-decoration: none;
     &:hover {
         color: $blackColor;
-		text-decoration: none;
-		background-color: $lightGrayColor;
+        text-decoration: none;
+        background-color: $lightGrayColor;
     }
     &.active, &.item--current {
         color: $mainColor; /* Couleur pour l'élément courant */
         font-weight: 800;
-		text-decoration: none;
+        text-decoration: none;
     }
-	&:visited {
+    &:visited {
         color: $darkGrayColor;
-		text-decoration: none;
-	}
+        text-decoration: none;
+    }
 }
 
 /* Tables */
