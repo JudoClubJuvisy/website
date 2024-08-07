@@ -3,60 +3,86 @@ title: false
 styles: true
 ---
 
-$linkColour: #ab0000 !default; /* Couleur principale du logo */
-$hoverColour: #212121 !default; /* Couleur de survol */
-$menuColour: #757575 !default; /* Couleur des éléments de menu non sélectionnés */
+/* Couleurs */
+$whiteColor: #fbfbfb; /* blanc cassé pour le fond du site */
+$blackColor: #212121; /* noir moin dur pour la couleur de la font */
+$darkGrayColor: #757575; /* entrées du menu inactive */
+$lightGrayColor: #f2f2f2; /* gris clair pour les en-têtes de tableau */
+
+/* Couleurs du club */
+$mainColor: #b40000; /* Rouge */
+$darkMainColor: #780000; /* Rouge foncé */
+
+$secondaryColor: #002654; /* Bleu */
+$lightSecondaryColor: #02479c; /* Bleu plus clair */
 
 @import "alembic";
 
 body {
-    background-color: #fbfbfb;
+    background-color: $whiteColor;
     font-family: 'Noto Sans', 'Roboto', sans-serif;
-    color: #212121;
+    color: $blackColor;
 }
 
 /* Headers */
 h1 {
     font-size: 28px;
-    color: #212121;
+    color: $blackColor;
 }
 
 h2 {
     font-size: 24px;
-    color: #212121;
+    color: $blackColor;
 }
 
 h3 {
     font-size: 18px;
-    color: #212121;
+    color: $blackColor;
 }
 
 /* Body Text */
 p, li, table, th, td {
     font-family: 'Noto Sans', 'Roboto', sans-serif;
     font-size: 16px;
-    color: #212121;
+    color: $blackColor;
 }
 
 p.bold, li.bold {
     font-weight: 700;
-    color: #212121;
+    color: $blackColor;
 }
 
 p.italic, li.italic {
     font-style: italic;
-    color: #212121;
+    color: $blackColor;
 }
 
 /* Links */
 a {
-    color: $menuColour;
+    color: $lightSecondaryColor;
     &:hover {
-        color: $hoverColour;
+        color: $secondaryColor;
+		text-decoration: underline;
     }
 	&:active {
         color: $linkColour;
     }
+	&:visited {
+		color: $darkMainColor;
+	}
+}
+
+nav a {
+    color: $darkGrayColor;
+}
+
+nav a:hover {
+    color: $blackColor;
+}
+
+nav a.active, .item--current {
+    color: $mainColor; /* Couleur pour l'élément courant */
+    font-weight: 700;
 }
 
 /* Tables */
@@ -71,7 +97,7 @@ th, td {
 }
 
 th {
-    background-color: #f2f2f2;
+    background-color: $lightGrayColor;
     font-weight: bold;
 }
 
