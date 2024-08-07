@@ -1,6 +1,7 @@
 ---
 feature_image: assets/img/cover.jpg
 title: Les entraînements
+feature_image_class: feature-img
 ---
 
 Les entraînements ont lieu au **gymnase Delaune, 38 rue Paul Doumer, à Juvisy**.

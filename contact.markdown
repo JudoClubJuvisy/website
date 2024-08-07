@@ -1,6 +1,7 @@
 ---
 feature_image: assets/img/cover.jpg
 title: Nous contacter
+feature_image_class: feature-img
 ---
 
 ✉️ [{{site.email}}](mailto:{{site.email}})

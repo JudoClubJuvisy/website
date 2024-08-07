@@ -1,6 +1,7 @@
 ---
 feature_image: assets/img/cover.jpg
 title: Judo Club de Juvisy
+feature_image_class: feature-img
 ---
 
 ## Actualités !
@@ -30,7 +31,6 @@ Il vous sera possible de vous inscrire directement sur place ainsi que de payer 
 Bienvenue au Judo Club de Juvisy ! Avec plus de 50 ans d'existence, notre club est un pilier de la communauté sportive de Juvisy. Chaque année, nous sommes fiers d'accueillir plus de 200 adhérents, de 3 à 70 ans, qui partagent notre passion pour les arts martiaux. Le judo, au cœur de notre programme, véhicule des valeurs saines et constructives telles que le respect, la discipline, et la persévérance.
 
 Notre mission est de promouvoir le judo et les arts martiaux auprès de tous les âges et niveaux. Que vous soyez débutant ou pratiquant expérimenté, vous trouverez chez nous un environnement chaleureux et inclusif pour progresser et vous épanouir. Rejoignez-nous au Judo Club de Juvisy pour découvrir les nombreux bienfaits du judo et des arts martiaux, et faites partie d'une communauté sportive dynamique et engagée.
-
 
 Club affilié à la [F.F.J.D.A.](https://www.ffjudo.com/) et ayant le label national.
 
