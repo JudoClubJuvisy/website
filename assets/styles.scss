@@ -77,11 +77,15 @@ nav a {
     color: $darkGrayColor;
     &:hover {
         color: $blackColor;
+		text-decoration: none;
+		background-color: $lightGrayColor;
     }
     &.active, &.item--current {
         color: $mainColor; /* Couleur pour l'élément courant */
         font-weight: 700;
     }
+	&:visited {
+        color: $darkGrayColor;
 }
 
 /* Tables */
