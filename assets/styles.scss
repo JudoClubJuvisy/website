@@ -54,7 +54,7 @@ a {
     &:hover {
         color: $hoverColour;
     }
-	 &:active {
+	&:active {
         color: $linkColour;
     }
 }
@@ -78,10 +78,7 @@ th {
 /* Feature Image */
 .feature-img {
     width: 100%;
-    height: 320px;
-    object-fit: cover;
-    border: 0;
-}
+    }
 
 /* Feature Section */
 .feature {
