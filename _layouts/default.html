@@ -14,6 +14,9 @@
         {% endfor %}
       </ul>
     </nav>
+    {% if page.feature_image %}
+    <div class="feature-img" style="background-image: url('{{ page.feature_image }}');"></div>
+    {% endif %}
   </header>
 
   <main>
