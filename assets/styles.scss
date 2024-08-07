@@ -3,29 +3,59 @@ title: false
 styles: true
 ---
 
-$linkColour: rgb(41, 164, 226) !default;
-$hoverColour: rgb(70, 58, 30) !default;
+$linkColour: #6200EE !default; /* Primary Color */
+$hoverColour: #03DAC6 !default; /* Secondary Color */
 
 @import "alembic";
 
-article p {
-    text-align: left;
+body {
+    background-color: #fbfbfb;
+    font-family: 'Noto Sans', 'Roboto', sans-serif;
+    color: #212121;
 }
 
-article div {
-    text-align: left;
+/* Headers */
+h1 {
+    font-size: 32px;
+    color: #212121;
 }
 
-article h1 {
-    text-align: left;
-    padding-bottom: 1em;
+h2 {
+    font-size: 24px;
+    color: #212121;
 }
 
-.typeset h1 {
-    font-size: 42px;
+h3 {
+    font-size: 20px;
+    color: #212121;
 }
 
-.feature{
+/* Body Text */
+p {
+    font-size: 16px;
+    color: #757575;
+}
+
+p.bold {
+    font-weight: 700;
+    color: #212121;
+}
+
+p.italic {
+    font-style: italic;
+    color: #757575;
+}
+
+/* Links */
+a {
+    color: $linkColour;
+    &:hover {
+        color: $hoverColour;
+    }
+}
+
+/* Feature Section */
+.feature {
     padding-bottom: 0.4rem;
     margin-bottom: 1.6rem;
     background-size: cover;
