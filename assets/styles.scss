@@ -56,49 +56,10 @@ a {
     }
 }
 
-/* Navigation Menu */
-nav {
-    background-color: #f8f8f8;
-    padding: 1rem;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-nav ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-}
-
-nav ul li {
-    margin: 0 1rem;
-}
-
-nav a {
-    color: $menuColour;
-    text-decoration: none;
-    padding: 0.5rem 1rem;
-    border-radius: 4px;
-}
-
-nav a:hover {
-    color: $hoverColour;
-    background-color: rgba(33, 33, 33, 0.1); /* Effet de survol léger */
-}
-
-nav a.active {
-    color: $linkColour;
-    font-weight: bold;
-}
-
 /* Tables */
 table {
     width: 100%;
     border-collapse: collapse;
-    font-family: 'Noto Sans', 'Roboto', sans-serif;
-    font-size: 16px;
-    color: #212121;
 }
 
 th, td {

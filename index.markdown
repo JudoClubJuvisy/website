@@ -1,5 +1,4 @@
 ---
-layout: default
 feature_image: assets/img/cover.jpg
 title: Judo Club de Juvisy
 feature_image_class: feature-img
