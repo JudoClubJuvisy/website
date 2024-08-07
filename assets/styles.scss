@@ -3,8 +3,9 @@ title: false
 styles: true
 ---
 
-$linkColour: #6200EE !default; /* Primary Color */
-$hoverColour: #03DAC6 !default; /* Secondary Color */
+$linkColour: #ff411c !default; /* Couleur principale du logo */
+$hoverColour: #212121 !default; /* Couleur de survol */
+$menuColour: #757575 !default; /* Couleur des éléments de menu non sélectionnés */
 
 @import "alembic";
 
@@ -49,16 +50,37 @@ p.italic, li.italic {
 
 /* Links */
 a {
-    color: $linkColour;
+    color: $menuColour;
     &:hover {
         color: $hoverColour;
     }
+}
+
+/* Navigation Menu */
+nav a {
+    color: $menuColour;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+}
+
+nav a:hover {
+    color: $hoverColour;
+    background-color: rgba(33, 33, 33, 0.1); /* Effet de survol léger */
+}
+
+nav a.active {
+    color: $linkColour;
+    font-weight: bold;
 }
 
 /* Tables */
 table {
     width: 100%;
     border-collapse: collapse;
+    font-family: 'Noto Sans', 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #212121;
 }
 
 th, td {

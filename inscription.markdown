@@ -1,4 +1,5 @@
 ---
+layout: default
 feature_image: assets/img/cover.jpg
 title: Les inscriptions 2024-2025
 feature_image_class: feature-img
