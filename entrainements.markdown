@@ -17,29 +17,29 @@ Mairie de Juvisy (Bus 285 et 486)
 ## Horaires :
 
 ### Baby (à partir de 3 ans / 2020 + 2021)
-Un cours par semaine soit les lundis soit les samedis.  
-Lundi : 17h30 à 18h30  
-Samedi : 13h00 à 14h00
+**Un cours par semaine soit les lundis soit les samedis.**  
+**Lundi : 17h30 à 18h30**  
+**Samedi : 13h00 à 14h00**
 
 ### Éveil (2019 + 2020)
-**Mercredi : 14h30 à 15h30**
+**Mercredi : 14h30 à 15h30**  
 **Samedi : 14h00 à 15h00**
 
 ### Mini-poussin (2017 + 2018)
-Mercredi : 15h30 à 16h30  
-Samedi : 15h00 à 16h00
+**Mercredi : 15h30 à 16h30**  
+**Samedi : 15h00 à 16h00**
 
 ### Poussin (2015 + 2016)
 **Mercredi : 16h30 à 17h30**  
 **Samedi : 16h00 à 17h00**
 
 ### Benjamin (2013 + 2014)
-Mercredi : 17h30 à 18h30  
-Samedi : 17h00 à 18h00
+**Mercredi : 17h30 à 18h30**  
+**Samedi : 17h00 à 18h00**
 
 ### Minime (2011 + 2012)
-Mercredi : 18h30 à 20h00  
-Samedi : 18h00 à 19h30
+**Mercredi : 18h30 à 20h00**  
+**Samedi : 18h00 à 19h30**
 
 ### Adulte (à partir des cadets : 2010, 2009…)
 **Ju-Jitsu, les lundis de 20h00 à 21h30**  
