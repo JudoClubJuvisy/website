@@ -31,6 +31,6 @@ Cette année, l'inscription se fera de manière dématérialisée.
 
 --- 
 
-Cotisation dégressive si plusieurs adhésions dans un même foyer :
--10€ sur la deuxième cotisation
+Cotisation dégressive si plusieurs adhésions dans un même foyer :  
+-10€ sur la deuxième cotisation  
 -20€ sur la troisième cotisation...
