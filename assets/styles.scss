@@ -75,6 +75,7 @@ body a {
 /* Navigation Menu Links */
 nav a {
     color: $darkGrayColor;
+	text-decoration: none;
     &:hover {
         color: $blackColor;
 		text-decoration: none;
@@ -82,10 +83,12 @@ nav a {
     }
     &.active, &.item--current {
         color: $mainColor; /* Couleur pour l'élément courant */
-        font-weight: 700;
+        font-weight: 800;
+		text-decoration: none;
     }
 	&:visited {
         color: $darkGrayColor;
+		text-decoration: none;
 	}
 }
 
