@@ -28,7 +28,9 @@ Il vous sera possible de vous inscrire directement sur place ainsi que de payer 
     <img src="assets/img/main.jpg" />
 </div>
 
-Bienvenue au Judo Club de Juvisy ! Avec plus de 60 ans d'existence, notre club est un pilier de la communauté sportive de Juvisy.
+Bienvenue au Judo Club de Juvisy !
+
+Avec plus de 60 ans d'existence, notre club est un pilier de la communauté sportive de Juvisy.
 
 Chaque année, nous sommes fiers d'accueillir plus de 200 adhérents, de 3 à 70 ans, qui partagent notre passion pour les arts martiaux.
 
@@ -46,4 +48,4 @@ Professeur : Brevet d’Etat 1er degré – David Bourdon (ceinture noire 3ème 
 
 Renseignements : [{{site.email}}](mailto:{{site.email}})
 
-**Tous niveaux acceptés et bienvenus**
+**Tous niveaux acceptés et bienvenus !**
