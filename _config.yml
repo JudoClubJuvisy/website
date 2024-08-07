@@ -12,7 +12,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-author: Club Juvisy Juvisy
+author: Judo Club de Juvisy
 
 favicons:
   192: '/assets/logos/favicon-192x192.png'
@@ -20,7 +20,7 @@ favicons:
 timezone: Europe/Paris
 encoding: utf-8
 lang: fr-FR
-title: Judo Club Juvisy sur Orge
+title: Judo Club de Juvisy
 logo: "/assets/logos/logo.png"
 email: club.judo.juvisy+website@gmail.com
 url: https://www.judo-juvisy.org
