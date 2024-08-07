@@ -15,13 +15,13 @@ Cette année, l'inscription se fera de manière dématérialisée.
 
 ---
 
-| Cours                                    | Prix  |
+| Cours                                    | Cotisation |
 | :--------------------------------------- | :---: |
-| Eveil-Judo 3/4 ans                       | 140€  |
-| Judo enfant 4/-14 ans                    | 170€  |
-| Judo ado-adulte à partir de 14 ans       | 170€  |
-| Ju-Jitsu Self-défense à partir de 16 ans | 130€  |
-| Taïso à partir de 16 ans                 | 130€  |
+| Baby Judo                                | 140€  |
+| Judo Enfant                              | 170€  |
+| Judo Adulte                              | 170€  |
+| Ju-Jitsu / Self-défense                  | 130€  |
+| Taïso                                    | 130€  |
 
 ---
 
