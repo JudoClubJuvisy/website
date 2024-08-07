@@ -3,7 +3,7 @@ title: false
 styles: true
 ---
 
-$linkColour: #ff411c !default; /* Couleur principale du logo */
+$linkColour: #ab0000 !default; /* Couleur principale du logo */
 $hoverColour: #212121 !default; /* Couleur de survol */
 $menuColour: #757575 !default; /* Couleur des éléments de menu non sélectionnés */
 
@@ -53,6 +53,9 @@ a {
     color: $menuColour;
     &:hover {
         color: $hoverColour;
+    }
+	 &:active {
+        color: $linkColour;
     }
 }
 
