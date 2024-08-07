@@ -57,32 +57,31 @@ p.italic, li.italic {
     color: $blackColor;
 }
 
-/* Links */
-a[href]{
+/* Links in the body (general links) */
+body a {
     color: $lightSecondaryColor;
     &:hover {
         color: $secondaryColor;
-		text-decoration: underline;
+        text-decoration: underline;
     }
-	&:active {
-        color: $linkColour;
+    &:active {
+        color: $mainColor;
     }
-	&:visited {
-		color: $darkMainColor;
-	}
+    &:visited {
+        color: $darkMainColor;
+    }
 }
 
+/* Navigation Menu Links */
 nav a {
     color: $darkGrayColor;
-}
-
-nav a:hover {
-    color: $blackColor;
-}
-
-nav a.active {
-    color: $mainColor; /* Couleur pour l'élément courant */
-    font-weight: 700;
+    &:hover {
+        color: $blackColor;
+    }
+    &.active, &.item--current {
+        color: $mainColor; /* Couleur pour l'élément courant */
+        font-weight: 700;
+    }
 }
 
 /* Tables */
@@ -105,7 +104,7 @@ th {
 .feature-img {
     max-width: 100%;
     height: auto;
-    }
+}
 
 /* Feature Section */
 .feature {
