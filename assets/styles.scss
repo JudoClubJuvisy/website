@@ -57,8 +57,9 @@ a {
 /* Feature Image */
 .feature-img {
     width: 100%;
-    height: 200px;
+    max-height: 320px;
     border: 0;
+	object-fit: cover; /* Ensure the image covers the area without stretching */
 }
 
 /* Feature Section */
