@@ -31,17 +31,17 @@ h3 {
 }
 
 /* Body Text */
-p {
+p, li {
     font-size: 16px;
     color: #212121;
 }
 
-p.bold {
+p.bold, li.bold {
     font-weight: 700;
     color: #212121;
 }
 
-p.italic {
+p.italic, li.italic {
     font-style: italic;
     color: #212121;
 }
@@ -52,6 +52,24 @@ a {
     &:hover {
         color: $hoverColour;
     }
+}
+
+/* Tables */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 16px;
+    color: #212121;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
 }
 
 /* Feature Image */
